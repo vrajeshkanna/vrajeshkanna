@@ -18,10 +18,11 @@ I'm Rajesh Kanna. I love making things and using software/hardware to their maxi
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vrajeshkanna.vrajeshkanna)
 
-Outside of [GitHub](https://github.com/vrajeshkanna/), You can **find me at.  
-[![Twitter: RajeshKanna](https://img.shields.io/twitter/follow/vrajeshkanna1?style=social)](https://twitter.com/vrajeshkanna1)
-[![Linkedin: RajeshKanna](https://img.shields.io/badge/-Rajeshkanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajesh-kanna-bb339a23/)](https://www.linkedin.com/in/rajesh-kanna-bb339a23/)
-[![GitHub RajeshKanna](https://img.shields.io/github/followers/vrajeshkanna?label=follow&style=social)](https://github.com/vrajeshkanna)
+Outside of [GitHub](https://github.com/vrajeshkanna/), You can find me at.  
+  
+[![Twitter: RajeshKanna](https://img.shields.io/twitter/follow/vrajeshkanna1?style=social)](https://twitter.com/vrajeshkanna1)  
+[![Linkedin: RajeshKanna](https://img.shields.io/badge/-Rajeshkanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajesh-kanna-bb339a23/)](https://www.linkedin.com/in/rajesh-kanna-bb339a23/)  
+[![GitHub RajeshKanna](https://img.shields.io/github/followers/vrajeshkanna?label=follow&style=social)](https://github.com/vrajeshkanna)  
 <p><a href="https://www.kanna.in">🌐 Check out my website</a></p>
 
 <!--
