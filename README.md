@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rajesh Kanna. I love making things and using software/hardware to their maximum extent by hacking them.
+I'm Rajesh Kanna. I love making software and using software/hardware to their maximum extent by hacking them.
 
 ### Languages and Tools:
 
