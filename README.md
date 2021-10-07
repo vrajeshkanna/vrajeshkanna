@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rajesh Kanna. I love making software and using software/hardware to their maximum extent by hacking them.
+I'm Rajesh Kanna. I love making software. I deliver great software to the world to make people's lives easier. I love making systems efficient in my own life as a life, mind, body hacker for better well being.
 
 ### Languages and Tools:
 
