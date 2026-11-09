@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rajesh Kanna. I love making software. I deliver great software to the world to make people's lives easier. I love making systems efficient in my own life as a life, mind, body hacker for better well being.
+I'm Rajesh Kanna. I love making software. I deliver great software to the world to make people's lives easier. I love making systems efficient in my own life as a life, mind, and body hacker for better well-being.
 
 ### Languages and Tools:
 
@@ -14,7 +14,7 @@ I'm Rajesh Kanna. I love making software. I deliver great software to the world 
 
 ### Profile Overview:
 
-![Rajesh Kanna's github stats](https://github-readme-stats.vercel.app/api?username=vrajeshkanna&show_icons=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vrajeshkanna&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=vrajeshkanna&include_all_commits=true&theme=light_github)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vrajeshkanna.vrajeshkanna)
 
