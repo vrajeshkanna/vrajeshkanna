@@ -14,7 +14,9 @@ I'm Rajesh Kanna. I love making software. I deliver great software to the world 
 
 ### Profile Overview:
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vrajeshkanna&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=vrajeshkanna&include_all_commits=true&theme=light_github)
+[![GitHub Stats]([https://github-stats-extended.vercel.app/api?username=vrajeshkanna&include_all_commits=true&theme=light_github](https://github-stats-extended.vercel.app/api?username=vrajeshkanna&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=light_github))]([https://github-stats-extended.vercel.app/api?username=vrajeshkanna&include_all_commits=true&theme=light_github](https://github-stats-extended.vercel.app/api?username=vrajeshkanna&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=light_github))
+
+https://github-stats-extended.vercel.app/api?username=vrajeshkanna&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=light_github
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vrajeshkanna.vrajeshkanna)
 
